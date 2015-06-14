@@ -8,7 +8,15 @@
         "text": "Hi React!"
     },
     {
-      "author": "Boreto",
-      "text": "Shit!"
+        "author": "Boreto",
+        "text": "Shit!"
+    },
+    {
+        "author": "Julian2",
+        "text": "Hey"
+    },
+    {
+        "author": "Julian3",
+        "text": "Hey again!"
     }
 ]
